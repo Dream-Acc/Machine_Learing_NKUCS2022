@@ -1,0 +1,9 @@
+请输入查询疾病ID号：100050
+查询个数: 5
+PR 456 is 1
+Related genes(top10):
+456    FGD1
+457    ABP1
+771    ELMO1
+197    CTTN
+459    DAO
